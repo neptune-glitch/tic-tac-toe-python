@@ -37,16 +37,22 @@ The game runs in the terminal and supports real-time input, win-checking, comput
 2.You choose:
 
    Row: row1, row2, or row3
+   
    Position: 0, 1, or 2
+   
    Your symbol is X.
+   
 
 3.Computer will respond with symbol 0 (zero).
 
 4.Game ends when:
 
   Player wins
+  
   Computer wins
+  
   Draw (board full)
+  
 
 
 
@@ -64,16 +70,23 @@ The player selects a row and a position. The board updates instantly.
 ✔ Computer Move
 
 The computer checks:
+
 Can it win? → plays winning move
+
 Does it need to block the player? → plays blocking move
+
 Else → places at the first empty spot
+
 
 ✔ Win Check
 
 The game checks:
-All 3 rows
-All 3 columns
-Both diagonals
+
+   All 3 rows
+   
+   All 3 columns
+   
+   Both diagonals
 
 
     File Structure
@@ -101,7 +114,7 @@ No external libraries needed — only Python 3.
  
 3. Add GUI using Tkinter or Pygame
  
- 4.Add score system
+4.Add score system
 
 
 
