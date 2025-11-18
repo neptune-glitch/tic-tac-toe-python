@@ -1,9 +1,11 @@
 🧠✨ Tic Tac Toe – Python (Player vs Computer)
 
 
+
 A simple yet fun Tic Tac Toe game built in Python, where the player competes against the computer .
 
 The game runs in the terminal and supports real-time input, win-checking, computer moves, and draw detection.
+
 
 
 🎮 Features
@@ -25,7 +27,10 @@ The game runs in the terminal and supports real-time input, win-checking, comput
 
 
 
+
 🕹️ How to Play
+
+
 
 1.The board is shown as a 3×3 grid.
 
@@ -42,6 +47,7 @@ The game runs in the terminal and supports real-time input, win-checking, comput
   Player wins
   Computer wins
   Draw (board full)
+
 
 Screenshot of the game 
 
@@ -69,28 +75,27 @@ All 3 columns
 Both diagonals
 
 
-📁 File Structure
+    File Structure
 
 tic_tac_toe.py      → Main game file
 README.md           → Project documentation
 
 
-▶️ Run the Game
+    Run the Game
 
 Make sure Python is installed.
 
-📦 Requirements
-
+    Requirements
 
 No external libraries needed — only Python 3.
 
 
-💡 Future Improvements 
+   Future Improvements 
 
-✨ Add replay option inside game
-✨ Add AI difficulty levels
-✨ Add GUI using Tkinter or Pygame
-✨ Add score system
+ Add replay option inside game
+ Add AI difficulty levels
+ Add GUI using Tkinter or Pygame
+ Add score system
 
 
 
