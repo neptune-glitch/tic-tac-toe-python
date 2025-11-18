@@ -1,4 +1,4 @@
-🧠✨ Tic Tac Toe – Python (Player vs Computer)
+     Tic Tac Toe – Python (Player vs Computer)
 
 
 
@@ -8,7 +8,7 @@ The game runs in the terminal and supports real-time input, win-checking, comput
 
 
 
-🎮 Features
+     Features
 
 
 ✅ Player vs Computer gameplay.
@@ -28,7 +28,7 @@ The game runs in the terminal and supports real-time input, win-checking, comput
 
 
 
-🕹️ How to Play
+     How to Play
 
 
 
@@ -49,12 +49,13 @@ The game runs in the terminal and supports real-time input, win-checking, comput
   Draw (board full)
 
 
-Screenshot of the game 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c68aff1d-f060-45a6-9e4b-6ca0635c6a4d" />
+   Screenshot of the game 
+
+<img width="980" height="900" alt="image" src="https://github.com/user-attachments/assets/c68aff1d-f060-45a6-9e4b-6ca0635c6a4d" />
 
 
-🧩 Game Logic
+    Game Logic
 
 ✔ Player Move
 
