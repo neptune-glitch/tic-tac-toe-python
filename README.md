@@ -79,6 +79,8 @@ Both diagonals
     File Structure
 
 tic_tac_toe.py      → Main game file
+
+
 README.md           → Project documentation
 
 
@@ -93,11 +95,13 @@ No external libraries needed — only Python 3.
 
    Future Improvements 
 
- Add replay option inside game
- Add AI difficulty levels
- Add GUI using Tkinter or Pygame
- Add score system
+1. Add replay option inside game
+ 
+2. Add AI difficulty levels
+ 
+3. Add GUI using Tkinter or Pygame
+ 
+ 4.Add score system
 
 
 
-This project is licensed under the MIT License — feel free to use it anywhere.
